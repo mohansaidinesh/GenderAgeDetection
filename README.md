@@ -1,6 +1,8 @@
 # GenderAgeDetection
 
-#### Build a gender and age detector that can guess the gender and age of the human being through a picture or a webcam.
+### Build a gender and age detector that can guess the gender and age of the human being through a picture or a webcam.
+##### Gender : Male, Female
+###### Age Groups : '(0-4)', '(5-6)', '(7-12)', '(13-20)', '(21-32)', '(33-43)', '(44-53)', '(54-100)'
 
 Drive Link for other files : https://drive.google.com/drive/folders/15qHkNCiJ6f4URT4SCl-L-YmNBvdYCmQe?usp=sharing
 
